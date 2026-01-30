@@ -9,9 +9,10 @@ public class Calculator
     public void Calculate(){
         // Add your code here
         Addition += 5;
-        Subraction -= 1;
+        Subtraction -= 1;
         Multiplication *= 7;
         Division /= 2;
     }
 }
+
 
