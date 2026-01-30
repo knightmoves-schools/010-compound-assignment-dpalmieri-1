@@ -8,5 +8,10 @@ public class Calculator
 
     public void Calculate(){
         // Add your code here
+        Addition += 5;
+        Subtraction -= 1;
+        Multiplication *= 7;
+        Division /= 2;
     }
 }
+
